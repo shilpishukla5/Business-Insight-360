@@ -1,4 +1,4 @@
-# Business-Insights-360
+ # Business-Insights-360
 
 ## Project Overview
 
@@ -181,6 +181,11 @@ https://github.com/user-attachments/assets/03514803-7d10-450d-a403-94fb39f9cd98
 
 
 
+
+https://github.com/user-attachments/assets/af3c9961-1ba8-4158-ae80-55bc6a34465a
+
+
+
 ## Marketing View
 https://github.com/user-attachments/assets/cce7993a-1f3c-41f9-9543-014df54f93ab
 
@@ -188,6 +193,10 @@ https://github.com/user-attachments/assets/cce7993a-1f3c-41f9-9543-014df54f93ab
 
 
 
+
+
+
+https://github.com/user-attachments/assets/0d0eb414-ef43-49be-9f07-323b64e88770
 
 
 
@@ -211,5 +220,5 @@ This report enables data-driven decision-making. Additionally, it aids in addres
 
 
 
-https://github.com/user-attachments/assets/bb4411c3-0c0e-4d93-937b-003f62f9f034
+
 
