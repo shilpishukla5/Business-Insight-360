@@ -161,8 +161,6 @@ In Home view, all the views button will be available. User will land on specific
 - Sales View
 - Marketing View
 - Supply chain View
-- Executive View
-- Products
 - Support
   
 
