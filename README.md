@@ -31,7 +31,7 @@ AtliQ Hardware has experienced rapid growth in recent years. To analyze their bu
 - Collaboration, workspace, access permissions in PowerBi services
 
 
-## Business related terms
+## Business related terms 
 
 - Gross price
 - Pre-invoice deductions
