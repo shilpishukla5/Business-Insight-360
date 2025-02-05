@@ -165,22 +165,33 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
   
-  <img src="https://github.com/usershanks/Business-Insights-360/blob/main/home_page.png" class="center">
+
+https://github.com/user-attachments/assets/f9bfd3b1-a862-4ed8-9735-50ca4dca18a6
+
+
+  
   
 ## Finance View
-![Recording_finance_view](https://github.com/user-attachments/assets/d3a7a158-f28d-427f-9992-8eb03d47a6e2)
+https://github.com/user-attachments/assets/03514803-7d10-450d-a403-94fb39f9cd98
+
 
 ## Sales View
-![sales_view](https://github.com/user-attachments/assets/a542c133-73ed-45db-bb53-b56724b890c8)
+
+
+
+
 
 ## Marketing View
-![marketing_view](https://github.com/user-attachments/assets/1caa0c59-f841-41d3-9b0e-8cce8610aba9)
+https://github.com/user-attachments/assets/cce7993a-1f3c-41f9-9543-014df54f93ab
 
 ## Supply Chain View
-![supply chain _view](https://github.com/user-attachments/assets/c49d48cc-95ca-4821-9b46-c1338b65e08e)
 
-## Executive View
-![executive view](https://github.com/user-attachments/assets/701a7b4e-27d7-47ec-a45e-983ad900ebd4)
+
+
+
+
+
+
 
 ## Project Outcome
 
@@ -193,4 +204,12 @@ This report enables data-driven decision-making. Additionally, it aids in addres
 
 
 
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/bb4411c3-0c0e-4d93-937b-003f62f9f034
 
