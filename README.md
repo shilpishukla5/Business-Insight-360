@@ -168,6 +168,10 @@ In Home view, all the views button will be available. User will land on specific
 
 https://github.com/user-attachments/assets/f9bfd3b1-a862-4ed8-9735-50ca4dca18a6
 
+## Info View
+![info view](https://github.com/user-attachments/assets/05663043-e568-4b9d-9f2e-9ca941e64c02)
+
+
 
   
   
@@ -198,7 +202,12 @@ https://github.com/user-attachments/assets/cce7993a-1f3c-41f9-9543-014df54f93ab
 
 https://github.com/user-attachments/assets/0d0eb414-ef43-49be-9f07-323b64e88770
 
+## Support View
 
+
+
+
+![support](https://github.com/user-attachments/assets/015c97d8-f3c0-4e71-81c2-662cda1c13ec)
 
 
 
